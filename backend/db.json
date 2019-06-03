@@ -1,0 +1,81 @@
+{
+  "information": {
+    "visitors": 122500,
+    "users": 1230,
+    "sales": 670,
+    "orders": 400
+  },
+  "sales": [
+    {
+      "month": "January",
+      "sales": 856
+    },
+    {
+      "month": "February",
+      "sales": 999
+    },
+    {
+      "month": "March",
+      "sales": 645
+    },
+    {
+      "month": "April",
+      "sales": 834
+    },
+    {
+      "month": "May",
+      "sales": 989
+    },
+    {
+      "month": "June",
+      "sales": 790
+    },
+    {
+      "month": "July",
+      "sales": 1010
+    }
+  ],
+  "reports": [
+    {
+      "id": 1,
+      "user": "NAVER",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png",
+      "message": "Voluptate consectetur commodo reprehenderit deserunt aliqua eiusmod fugiat nulla aute mollit anim id.",
+      "time": "56 mins ago"
+    },
+    {
+      "id": 2,
+      "user": "NAVER",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png",
+      "message": "In labore reprehenderit tempor laboris laborum consequat tempor qui quis veniam deserunt duis ut.",
+      "time": "51 mins ago"
+    },
+    {
+      "id": 3,
+      "user": "NAVER",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png",
+      "time": "49 mins ago"
+    },
+    {
+      "id": 4,
+      "user": "NAVER",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png",
+      "message": "Laboris officia ut sunt sint et.",
+      "time": "32 mins ago"
+    },
+    {
+      "id": 5,
+      "user": "NAVER",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png",
+      "message": "Eiusmod mollit qui consectetur anim cupidatat sit fugiat.",
+      "time": "27 mins ago"
+    },
+    {
+      "message": "Bora trampar na nave :)",
+      "user": "NAVER",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png",
+      "time": "2 mins ago",
+      "id": 6
+    }
+  ]
+}
